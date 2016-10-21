@@ -1,0 +1,15 @@
+Package: iTrackR
+Title: iTrackr
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Easy data processing for eye-tracking data.
+Depends:
+    R (>= 3.3.1)
+Imports:
+    aspace,
+    plotly,
+    png
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
