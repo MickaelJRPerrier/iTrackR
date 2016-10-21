@@ -1,0 +1,6 @@
+---
+title: "iTrackR"
+output: github_document
+---
+
+Documentation and package information will be available soon.
